@@ -1,87 +1,99 @@
- Week 3: Data Analytics Learning Journey
+# Week 3: Data Analytics Learning Journey
 
-Overview
+## Overview
 
 During Week 3 of my Data Analytics learning journey, I explored useful Excel functions and learned the fundamentals of computer logic gates. These concepts helped me strengthen my understanding of data analysis, conditional calculations, and logical operations.
 
-What I Learned
+## What I Learned
 
-1. Excel Functions
+### 1. Excel Functions
 
-I learned about the following Excel functions and how they can be used to analyze and summarize data.
+I learned about the following Excel functions and how they can be used to analyze, calculate, and summarize data.
 
-Function	Purpose
-SUMIF	Adds values that meet a specified condition.
-AVERAGE	Calculates the arithmetic mean of a set of numbers.
-AVERAGEIF	Calculates the average of values that meet a specified condition.
-COUNT	Counts cells containing numbers.
-AND	Returns TRUE if all specified conditions are true; otherwise, it returns FALSE.
-These functions are useful for organizing datasets, performing calculations, and extracting meaningful insights from data.
+| Function | Purpose |
+|---|---|
+| `SUMIF()` | Adds values that meet a specified condition. |
+| `AVERAGE()` | Calculates the arithmetic mean of a set of numbers. |
+| `AVERAGEIF()` | Calculates the average of values that meet a specified condition. |
+| `COUNT()` | Counts the number of cells containing numbers. |
+| `AND()` | Returns `TRUE` if all specified conditions are true; otherwise, it returns `FALSE`. |
 
-2. Basic Logic Gates
+These functions are useful for organizing datasets, performing calculations, applying conditions, and extracting meaningful insights from data.
 
-I also learned about four basic logic gates: AND, OR, NAND, and NOR.
+### 2. Basic Logic Gates
 
-Logic gates evaluate binary inputs (0 and 1) and produce outputs based on specific logical rules.
+I also learned about four basic logic gates: **AND, OR, NAND, and NOR**.
 
-AND Gate
+Logic gates evaluate binary inputs (`0` and `1`) and produce outputs based on specific logical rules. They are fundamental concepts in digital electronics and computer systems.
 
-The AND gate returns 1 only when both inputs are 1.
+#### AND Gate
 
-Input A	Input B	Output
-0	0	0
-0	1	0
-1	0	0
-1	1	1
-OR Gate
+The AND gate returns `1` only when both inputs are `1`. Otherwise, it returns `0`.
 
-The OR gate returns 1 when at least one input is 1.
+| Input A | Input B | Output |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
 
-Input A	Input B	Output
-0	0	0
-0	1	1
-1	0	1
-1	1	1
-NAND Gate
+#### OR Gate
 
-The NAND gate is the opposite of the AND gate. It returns 0 only when both inputs are 1.
+The OR gate returns `1` when at least one input is `1`. It returns `0` only when both inputs are `0`.
 
-Input A	Input B	Output
-0	0	1
-0	1	1
-1	0	1
-1	1	0
-NOR Gate
+| Input A | Input B | Output |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
 
-The NOR gate is the opposite of the OR gate. It returns 1 only when both inputs are 0.
+#### NAND Gate
 
-Input A	Input B	Output
-0	0	1
-0	1	0
-1	0	0
-1	1	0
- Key Takeaways
+The NAND gate is the opposite of the AND gate. It returns `0` only when both inputs are `1`.
 
-Improved my understanding of Excel functions used in data analysis.
-Learned how conditional functions summarize data based on specific criteria.
-Explored how logic gates evaluate binary inputs and produce outputs.
-Strengthened my foundation in spreadsheet calculations and logical reasoning.
-Continued developing the technical skills needed for a career in data analytics.
- Next Steps
+| Input A | Input B | Output |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
 
-Practice Excel functions using sample datasets.
-Apply conditional formulas to practical data analysis tasks.
-Explore additional Excel functions and their applications.
-Practice logic gate operations and truth tables.
-Document my learning progress and build projects that demonstrate my skills.
- Conclusion
+#### NOR Gate
 
-Week 3 completed!
+The NOR gate is the opposite of the OR gate. It returns `1` only when both inputs are `0`.
 
-I am committed to learning consistently, practicing what I learn, and building practical projects that demonstrate my growth in data analytics.
+| Input A | Input B | Output |
+|---|---|---|
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 0 |
 
-Every week is an opportunity to improve my skills, solve problems, and move closer to my goals as a data analyst.
+## Key Takeaways
 
-🔗 Connect With My Learning Journey
+- Improved my understanding of Excel functions used in data analysis.
+- Learned how conditional functions summarize data based on specific criteria.
+- Explored how logic gates evaluate binary inputs and produce outputs.
+- Strengthened my foundation in spreadsheet calculations and logical reasoning.
+- Continued developing the technical skills needed for a career in Data Analytics.
 
-Follow my progress as I continue exploring data analytics, Excel, and other essential data tools.
+## Next Steps
+
+- Practise Excel functions using sample datasets.
+- Apply conditional formulas to practical data analysis tasks.
+- Explore additional Excel functions and their applications.
+- Practise logic gate operations and truth tables.
+- Document my learning progress and build projects that demonstrate my skills.
+
+## Conclusion
+
+**Week 3 completed!**
+
+I am committed to learning consistently, practising what I learn, and building practical projects that demonstrate my growth in Data Analytics.
+
+Every week is an opportunity to improve my skills, solve problems, and move closer to my goal of becoming a Data Analyst.
+
+## Connect With My Learning Journey
+
+Follow my progress as I continue exploring Data Analytics, Excel, and other essential data tools.
